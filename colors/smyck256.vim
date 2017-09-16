@@ -46,7 +46,7 @@ hi SpellCap             cterm=none ctermbg=4        ctermfg=234     gui=none    
 hi SpellRare            cterm=none ctermbg=4        ctermfg=234     gui=none                        guifg=#F7F7F7
 hi SpellLocal           cterm=none ctermbg=4        ctermfg=234     gui=none                        guifg=#F7F7F7
 hi Visual               cterm=none ctermbg=15       ctermfg=245     gui=none        guibg=#F7F7F7   guifg=#8F8F8F
-hi Directory            cterm=none ctermbg=none     ctermfg=116     gui=none        guibg=#242424   guifg=#88CCE7
+hi Directory            cterm=none ctermbg=none     ctermfg=12      gui=none        guibg=#242424   guifg=#88CCE7
 hi SpecialKey           cterm=none ctermbg=none     ctermfg=245     gui=none                        guifg=#8F8F8F
 hi DiffAdd              cterm=bold ctermbg=2        ctermfg=234
 hi DiffChange           cterm=bold ctermbg=4        ctermfg=234
@@ -55,7 +55,7 @@ hi DiffText             cterm=bold ctermbg=3        ctermfg=8
 hi MatchParen           cterm=none ctermbg=37       ctermfg=15      gui=none        guibg=#2EB5C1   guifg=#F7F7F7
 hi CursorLine           cterm=none ctermbg=238      ctermfg=none    gui=none        guibg=#424242
 hi CursorColumn         cterm=none ctermbg=238      ctermfg=none    gui=none        guibg=#424242
-hi Title                cterm=none ctermbg=none     ctermfg=116     gui=none                        guifg=#88CCE7
+hi Title                cterm=none ctermbg=none     ctermfg=12      gui=none                        guifg=#88CCE7
 
 " ----------------------------------------------------------------------------
 " Syntax Highlighting
